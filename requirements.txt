@@ -1,0 +1,7 @@
+telethon
+qrcode
+openpyxl
+anthropic
+openai
+pydub
+# sqlite3 is built-in; для голосовых (pydub) нужен ffmpeg в системе (Python standard library)
